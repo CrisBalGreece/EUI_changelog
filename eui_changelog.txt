@@ -1,4 +1,4 @@
-LeMax2-EUI-6.030S_V.25-26.09.2021_by_C.B.G
+LeMax2-EUI-6.030S_V.xx_by_C.B.G
 
 CHANGELOG FOR UPDATE 30s-v26 
  - Updated system apps...
